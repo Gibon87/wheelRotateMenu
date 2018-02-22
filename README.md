@@ -1,4 +1,4 @@
-<h1>Wheel Rotating MEnu :)</h1>
+<h1>Wheel Rotating Menu :)</h1>
 
 <p> Hey,<br>
 Just click on the icon ;) </p>
