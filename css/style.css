@@ -248,7 +248,7 @@ html, body {
 }
 
 #ss_menu > .menu.ss_active {
-  background: #00796B;
+  background: #7809ee;
   -webkit-transform: scale(0.7);
   -moz-transform: scale(0.7);
   -ms-transform: scale(0.7);
@@ -265,7 +265,7 @@ html, body {
   height: 60px;
   font-size: 30px;
   text-align: center;
-  background: #00796B;
+  background: #7809ee;
   border-radius: 50%;
   display: table;
 }
@@ -276,7 +276,7 @@ html, body {
 }
 
 #ss_menu > div:hover {
-  background: #009688;
+  background: #5806aa;
   cursor: pointer;
 }
 
