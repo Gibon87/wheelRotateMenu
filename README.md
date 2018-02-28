@@ -1,7 +1,7 @@
 
 <h1>Wheel Rotating Menu :)</h1>
 
-https://gibon87.github.io/wheelRotateMenu/
+Demo : https://gibon87.github.io/wheelRotateMenu/
 
 <p> Hey,<br>
 Just click on the icon ;) </p>
