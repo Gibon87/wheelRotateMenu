@@ -1,10 +1,10 @@
 
 <h1>Wheel Rotating Menu :)</h1>
 
-Demo : https://gibon87.github.io/wheelRotateMenu/
-
 <p> Hey,<br>
 Just click on the icon ;) </p>
+
+Demo : https://gibon87.github.io/wheelRotateMenu/
 
 <h2>How to use: </h2>
 <ol>
